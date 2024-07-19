@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.73f32b83.css",
-    "main.js": "/static/js/main.2b40e9a7.js",
+    "main.js": "/static/js/main.d8b202a2.js",
     "static/media/wotfard-regular-webfont.ttf": "/static/media/wotfard-regular-webfont.b7585f8e119628c4dfb2.ttf",
     "static/media/wotfard-regular-webfont.eot": "/static/media/wotfard-regular-webfont.2d3a69534cf02515f108.eot",
     "static/media/wotfard-regular-webfont.woff2": "/static/media/wotfard-regular-webfont.7116feee27c824067b2c.woff2",
     "index.html": "/index.html",
     "main.73f32b83.css.map": "/static/css/main.73f32b83.css.map",
-    "main.2b40e9a7.js.map": "/static/js/main.2b40e9a7.js.map"
+    "main.d8b202a2.js.map": "/static/js/main.d8b202a2.js.map"
   },
   "entrypoints": [
     "static/css/main.73f32b83.css",
-    "static/js/main.2b40e9a7.js"
+    "static/js/main.d8b202a2.js"
   ]
 }
